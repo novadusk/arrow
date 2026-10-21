@@ -19,6 +19,22 @@
 
 # Apache Arrow
 
+**Columnar data formats and language libraries for in-memory analytics and data interchange.**
+
+Columnar data · IPC · Multi-language libraries
+
+[C++](cpp/) · [Python](python/) · [Format specification](format/) · [Contributing](CONTRIBUTING.md)
+
+Select a language implementation before building. The format, IPC and library documentation below explain how Arrow data is represented and exchanged.
+
+> Fork under novadusk · Upstream: [apache/arrow](https://github.com/apache/arrow) · Branch: `main`. Upstream badges, release links and documentation below describe the original project.
+
+---
+
+## Upstream documentation
+
+# Apache Arrow
+
 [![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/arrow.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:arrow)
 [![License](https://img.shields.io/:license-Apache%202-blue.svg)](https://github.com/apache/arrow/blob/main/LICENSE.txt)
 [![BlueSky Follow](https://img.shields.io/badge/bluesky-Follow-blue?logo=bluesky)](https://bsky.app/profile/arrow.apache.org)
